@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "C:/Users/Bruna/Documents/Coding/Halflife/Instrument/midi_keypad/library/Bruna Library/Library.pretty") (options "") (descr ""))
+	(lib (name "Bruna library") (type "KiCad") (uri "C:/Users/Bruna/Documents/Coding/Halflife/Instrument/midi_keypad/library/Bruna library.pretty") (options "") (descr ""))
+)

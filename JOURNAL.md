@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 7.25h | 3 |
+| Week 3 | Tier 1 | 7.75h | 3 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 
 ### 2026-10-25 – # Starting out…
 
-**1h**
+**1.5h**
 
 # Starting out…
 

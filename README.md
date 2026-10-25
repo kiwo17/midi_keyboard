@@ -1,7 +1,7 @@
 # Midi Keypad
 building a mini portable keypad
 
-image coming soooooooon ...
+![pcb](images/photo1.png)
 
 My Interest have always been diverse, but music and electronics are the ones I constantly find myself drawn back to. With this project I am connecting both, by merging the 
 creative and expressive qualities of music with the physical and technical structure of electronics. 
@@ -10,13 +10,17 @@ creative and expressive qualities of music with the physical and technical struc
 
 🚧 This project is still a work in progress 🚧
 
-### Currently working on ...
+### PCB
 
-- schematic
+![front](images/photo2.png)
+
+
+![back](images/photo3.png)
+
 
 ### Next steps ... 
 
-- finish schematic
-- begin with routing
+  - firmware
+  - assemble it
 
 ## BOM

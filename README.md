@@ -8,9 +8,16 @@ creative and expressive qualities of music with the physical and technical struc
 
 ## Progress
 
-🚧 This project is still a work in progress 🚧
+### Schematic
 
-### PCB
+![schematic](images/schematic.png)
+
+Because I didn't want to use Bourns potentiometer sliders in my keypad I needed to replace them with a different component. 
+I decided to add another encoder because I find them visually pleasing. Initially I wanted to use three encoders, but due to a shortage of GPIOs pins that wans't possible. 
+
+I also had to adjust the connections between the different components and the ESP32 to make PCB routing easier
+
+### Design
 
 ![front](images/photo2.png)
 
